@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">重庆饭哥TV</string>
     <string name="app_home">首页</string>
-    <string name="app_source">https://www.fyf023.com/tvbox.json</string>
+    <string name="app_source">https://chongqingfange.cqysxy.com/tvbox.json</string>
 
     // Home Page //
     <string name="hm_ok">加载成功</string>
